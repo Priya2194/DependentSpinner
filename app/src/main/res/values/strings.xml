@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">DependentSpinner</string>
+
+    <string-array name="Category">
+        <item>Animal</item>
+        <item>Birds</item>
+        <item>Flowers</item>
+    </string-array>
+    <string-array name="Animal">
+        <item>animal1</item>
+        <item>animal2</item>
+        <item>animal3</item>
+    </string-array>
+
+    <string-array name="Birds">
+        <item>bird1</item>
+        <item>bird2</item>
+        <item>bird3</item>
+    </string-array>
+
+    <string-array name="Flower">
+        <item>flower1</item>
+        <item>flower2</item>
+        <item>flower3</item>
+    </string-array>
+</resources>
